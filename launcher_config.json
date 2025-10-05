@@ -1,19 +1,10 @@
 {
-  "server_name": "Blackbbk",
-  "current_version": "1.0.0",
-  "description": "x",
-  "github_username": "blackbaiak", 
+  "server_name": "Black Baiak",
+  "current_version": "1.0.0", 
+  "description": "test",
+  "github_username": "BlackBaiak",
   "github_repository": "blackbaiak-client",
   "client_zip_filename": "tibia-client.zip",
-  
   "enable_auto_update": true,
-  "launcher_github_username": "blackbaiak",
-  "launcher_github_repository": "tibialauncher", 
-  "current_launcher_version": "2.0.0",
-  
-  "protected_folders": ["minimap", "conf", "characterdata", "screenshots", "addons"],
-  "install_path": "%APPDATA%/Tibia",
-  "auto_check_interval_hours": 2,
-  "show_version_status": true,
-  "enhanced_version_comparison": true
+  "protected_folders": ["minimap", "conf", "characterdata"]
 }
