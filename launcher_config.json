@@ -1,7 +1,8 @@
 {
     "LAUNCHER CONFIG": "Principal settings for the launcher",
     "server_name": "Black Baiak",
-    "current_version": "2.0.2", 
+    "current_version": "2.0.2",
+    "release_tag": "v1.0",
     "description": "Latest game client with awesome new features!",
     "github_username": "BlackBaiak",
     "github_repository": "blackbaiak-client",
@@ -29,15 +30,9 @@
         "World Map": "https://github.com/BlackBaiak/blackbaiak-worldmap/releases/download/maps/worldmap.zip"
     },
     
-    "BACKWARD COMPATIBILITY": "Old format launcher config",
-    "_legacy_note": "The fields below are for backward compatibility with older launchers",
-    "version": "1.0",
-    "download_link": "https://github.com/BlackBaiak/blackbaiak-client/releases/download/v1.0/tibia-client.zip",
-    "release_tag": "v1.0", 
-    "zip_file": "tibia-client.zip",
-    
     "ADVANCED OPTIONS": "Advanced settings section",
     "check_for_updates_on_startup": true,
     "show_changelog": true,
     "backup_before_update": true
 }
+
