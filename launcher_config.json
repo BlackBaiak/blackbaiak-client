@@ -14,7 +14,8 @@
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/BlackBaiak/blackbaiak-client/releases/download/v1.0.1/tibia-client.zip",
+	"newClientUrl" : "https://github.com/BlackBaiak/blackbaiak-client/releases/download/v2.0.1/baiak-client.zip",
 	"clientExecutable": "client.exe"
 }
+
 
