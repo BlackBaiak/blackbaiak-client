@@ -1,6 +1,6 @@
 {
   "server_name": "Black Baiak",
-  "current_version": "1.0.5", 
+  "current_version": "1.0.0", 
   "description": "test",
   "github_username": "BlackBaiak",
   "github_repository": "blackbaiak-client",
@@ -9,6 +9,7 @@
   "enable_auto_update": true,
   "protected_folders": ["minimap", "conf", "characterdata"]
 }
+
 
 
 
