@@ -1,14 +1,15 @@
 {
   "server_name": "Black Baiak",
-  "current_version": "2.0.5", 
+  "current_version": "1.0.0", 
   "description": "test",
   "github_username": "BlackBaiak",
   "github_repository": "blackbaiak-client",
-  "version": "v2.0.5",
+  "version": "v1.0.0",
   "client_zip_filename": "tibia-client.zip",
   "enable_auto_update": true,
   "protected_folders": ["minimap", "conf", "characterdata"]
 }
+
 
 
 
