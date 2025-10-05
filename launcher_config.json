@@ -1,24 +1,43 @@
 {
-"clientVersion": "15.04.CCAZX",
-	"launcherVersion": "1.1",
-	"replaceFolders": false,
-	"replaceFolderName": [
-		{
-			"name": "assets"
-		},
-		{
-			"name": "storeimages"
-		},
-		{
-			"name": "bin"
-		}
-	],
-	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/BlackBaiak/blackbaiak-client/releases/download/v2.0.2/baiak-client2.zip",
-	"clientExecutable": "client.exe"
+    "LAUNCHER CONFIG": "Principal settings for the launcher",
+    "server_name": "Black Baiak",
+    "current_version": "2.0.2", 
+    "description": "Latest game client with awesome new features!",
+    "github_username": "BlackBaiak",
+    "github_repository": "blackbaiak-client",
+    "client_zip_filename": "baiak-client2.zip",
+    "auto_install_updates": false,
+    
+    "AUTO-UPDATE LAUNCHER": "Enable this for automatic launcher updates",
+    "enable_auto_update": true,
+    "auto_install_launcher_updates": false,
+    "launcher_github_username": "BlackBaiak",
+    "launcher_github_repository": "blackbaiak-launcher",
+    "current_launcher_version": "2.0.0",
+    
+    "PROTECTED FOLDERS": "These folders won't be deleted during updates",
+    "protected_folders": [
+        "minimap",
+        "conf", 
+        "characterdata",
+        "screenshots"
+    ],
+    
+    "CUSTOM MINIMAPS": "Optional minimap downloads",
+    "enable_minimap_downloads": true,
+    "custom_minimaps": {
+        "World Map": "https://github.com/BlackBaiak/blackbaiak-worldmap/releases/download/maps/worldmap.zip"
+    },
+    
+    "BACKWARD COMPATIBILITY": "Old format launcher config",
+    "_legacy_note": "The fields below are for backward compatibility with older launchers",
+    "version": "1.0",
+    "download_link": "https://github.com/BlackBaiak/blackbaiak-client/releases/download/v1.0/tibia-client.zip",
+    "release_tag": "v1.0", 
+    "zip_file": "tibia-client.zip",
+    
+    "ADVANCED OPTIONS": "Advanced settings section",
+    "check_for_updates_on_startup": true,
+    "show_changelog": true,
+    "backup_before_update": true
 }
-
-
-
-
-
