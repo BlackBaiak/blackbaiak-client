@@ -1,6 +1,6 @@
 {
 "clientVersion": "15.04.CCAZX",
-	"launcherVersion": "1.0",
+	"launcherVersion": "1.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -17,6 +17,7 @@
 	"newClientUrl" : "https://github.com/BlackBaiak/blackbaiak-client/releases/download/v2.0.2/baiak-client2.zip",
 	"clientExecutable": "client.exe"
 }
+
 
 
 
