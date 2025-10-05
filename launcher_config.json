@@ -4,7 +4,9 @@
   "description": "test",
   "github_username": "BlackBaiak",
   "github_repository": "blackbaiak-client",
+  "version": "v1.0.0",
   "client_zip_filename": "tibia-client.zip",
   "enable_auto_update": true,
   "protected_folders": ["minimap", "conf", "characterdata"]
 }
+
