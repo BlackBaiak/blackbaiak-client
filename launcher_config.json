@@ -1,20 +1,19 @@
 {
-  "server_name": "Black Baiak",
-  "current_version": "1.0.1", 
-  "description": "test",
-  "github_username": "BlackBaiak",
-  "github_repository": "blackbaiak-client",
-  "version": "v1.0.1",
-  "client_zip_filename": "tibia-client.zip",
-  "enable_auto_update": true,
-  "protected_folders": ["minimap", "conf", "characterdata"]
+"clientVersion": "15.03.afe753",
+	"launcherVersion": "1.0",
+	"replaceFolders": true,
+	"replaceFolderName": [
+		{
+			"name": "assets"
+		},
+		{
+			"name": "storeimages"
+		},
+		{
+			"name": "bin"
+		}
+	],
+	"clientFolder": "Tibia",
+	"newClientUrl" : "https://github.com/BlackBaiak/blackbaiak-client/releases/tag/v1.0.1/tibia-client.zip",
+	"clientExecutable": "client.exe"
 }
-
-
-
-
-
-
-
-
-
