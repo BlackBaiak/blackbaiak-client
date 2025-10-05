@@ -1,5 +1,5 @@
 {
-"clientVersion": "15.03.afe753",
+"clientVersion": "15.04.CCAZX",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -14,8 +14,9 @@
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/BlackBaiak/blackbaiak-client/releases/download/v2.0.1/baiak-client.zip",
+	"newClientUrl" : "https://github.com/BlackBaiak/blackbaiak-client/releases/download/v2.0.2/baiak-client2.zip",
 	"clientExecutable": "client.exe"
 }
+
 
 
