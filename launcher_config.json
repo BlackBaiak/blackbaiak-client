@@ -2,11 +2,11 @@
     "LAUNCHER CONFIG": "Principal settings for the launcher",
     "server_name": "Black Baiak",
     "current_version": "1.0.2",
-    "release_tag": "v2.0.2",
+    "release_tag": "v2.0.3",
     "description": "Latest game client with awesome new features!",
     "github_username": "BlackBaiak",
     "github_repository": "blackbaiak-client",
-    "client_zip_filename": "baiak-client2.zip",
+    "client_zip_filename": "baiak-client.zip",
     "auto_install_updates": false,
     
     "AUTO-UPDATE LAUNCHER": "Enable this for automatic launcher updates",
@@ -35,5 +35,6 @@
     "show_changelog": true,
     "backup_before_update": true
 }
+
 
 
