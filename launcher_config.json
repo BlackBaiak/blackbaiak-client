@@ -6,7 +6,7 @@
     "description": "Latest game client with awesome new features!",
     "github_username": "BlackBaiak",
     "github_repository": "blackbaiak-client",
-    "client_zip_filename": "baiak-client.zip",
+    "client_zip_filename": "baiak-client.rar",
     "auto_install_updates": false,
     
     "AUTO-UPDATE LAUNCHER": "Enable this for automatic launcher updates",
@@ -35,6 +35,7 @@
     "show_changelog": true,
     "backup_before_update": true
 }
+
 
 
 
