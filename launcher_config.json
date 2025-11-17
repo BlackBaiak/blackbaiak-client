@@ -1,47 +1,4 @@
 {
-    "LAUNCHER CONFIG": "Principal settings for the launcher",
-    "server_name": "Black Baiak",
-    "current_version": "1.0.2",
-    "release_tag": "v2.0.9",
-    "description": "Latest game client with awesome new features!",
-    "github_username": "BlackBaiak",
-    "github_repository": "blackbaiak-client",
-    "client_zip_filename": "baiak-client.zip",
-    "auto_install_updates": false,
-    
-    "AUTO-UPDATE LAUNCHER": "Enable this for automatic launcher updates",
-    "enable_auto_update": false,
-    "auto_install_launcher_updates": false,
-    "launcher_github_username": "BlackBaiak",
-    "launcher_github_repository": "blackbaiak-launcher",
-    "current_launcher_version": "2.0.0",
-    
-    "PROTECTED FOLDERS": "These folders won't be deleted during updates",
-    "protected_folders": [
-        "minimap",
-        "conf", 
-        "characterdata",
-        "screenshots"
-    ],
-    
-    "CUSTOM MINIMAPS": "Optional minimap downloads",
-    "enable_minimap_downloads": true,
-    "custom_minimaps": {
-        "World Map": "https://github.com/BlackBaiak/blackbaiak-worldmap/releases/download/maps/worldmap.zip"
-    },
-    
-    "ADVANCED OPTIONS": "Advanced settings section",
-    "check_for_updates_on_startup": true,
-    "show_changelog": true,
-    "backup_before_update": true
+  "version": "13.20.101",
+  "release": "v13.20.101"
 }
-
-
-
-
-
-
-
-
-
-
